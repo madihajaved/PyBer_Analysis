@@ -25,7 +25,7 @@ The results show a few key trends in the ride-sharing data among the different c
 * Total fare by city type: However, it is important to keep in context the total fare by city type. Despite the highest average fares in rural cities, the total fare in rural cities remain the lowest given lower scale (i.e. less number of overall rides). 
 
 ## Summary 
-![](https://github.com/madihajaved/PyBer_Analysis/blob/main/analysis/Fig8.png)
+![](https://github.com/madihajaved/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 The above chart summarizes the weekly trends for fares from Jan to April 2019. It can be seen that: 
 * In April, total fares are highest in rural cities. It might be worth exploring if this trend is the same over years and ensuring there are more drivers in rural cities during that time to earn more revenues. 
