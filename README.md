@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Overview 
-This analysis looks at the ridesharing data by city type and combines the data to look at weekly fares from January to April 2019. A visualization of the data available is below: 
+This analysis looks at the ridesharing data by city type and combines the data to look at weekly fares from January to April 2019. A visualization of the data available for year 2019 is below: 
 
 ![](https://github.com/madihajaved/PyBer_Analysis/blob/main/analysis/Fig1.png)
 
